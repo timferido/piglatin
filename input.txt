@@ -1,0 +1,5 @@
+Hello World. Today is the first day that I will be creating a program from scratch.
+This program is merely going to translate an input text file into piglatin. Piglatin
+is an informal language in which the words are english words with the first letter of
+the word placed at the end and an 'a' placed after this operation. So, 'hello' in piglatin
+would be 'elloha'. Enjoy!
